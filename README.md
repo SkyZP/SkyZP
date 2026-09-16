@@ -35,7 +35,7 @@
         <a href="https://instagram.com/vinnn8074" target="blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinnn8074" height="40" width="40" />
         </a>
-        <a href="https://www.youtube.com/c/@arks77" target="blank">
+        <a href="https://www.youtube.com/@ArkS77" target="blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@arks77" height="40" width="40" />
         </a>
       </p>
